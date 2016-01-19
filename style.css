@@ -1,0 +1,40 @@
+#heading{
+	background: #18bc9c;
+	box-shadow: 2px 2px 2px #ccc;
+}
+.med{
+	color: beige;
+}
+.selectCity{
+	border-radius: 0px;
+}
+.search{
+	position-top: 1;
+}
+.span2{
+	color: #1a242f;
+}
+.cities .list-group-item a{
+	display: block;
+	height: inherit;
+	width: inherit;
+	text-decoration: none;
+}
+.spec-list{
+	padding:0;
+	margin: 0;
+}
+.spec-list li{
+	text-align: center;
+	padding: 10px;
+
+}
+.spec-list li a{
+	display: block;
+	width:100%;
+	height:100%;
+	text-align: center;
+	text-decoration:none;
+	font-size: 14px;
+	font-family: arial;
+}
